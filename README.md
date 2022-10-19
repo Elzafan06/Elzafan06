@@ -1,6 +1,6 @@
 ### Olá! Eu sou Elzafan 👋
 
-- 🌱 Estudando Python e HTML 
+- 🌱 Estudando Python e HTML & JS
 - 📫 Contate-me no email: contatoelzafanfilho@gmail.com
 - 😄 Pronouns: ele/dele
 
